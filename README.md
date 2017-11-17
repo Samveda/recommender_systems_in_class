@@ -18,6 +18,8 @@ After this session , you'll be able to do
 2. Collaborative Filtering
   - Item-Item Based Collaborative Filtering
 3. Evaluation Metrics for recommender system using surprise module.
+4. Content based recommender systems
+
 
 ## Slides
 Check the Jupyter Notebook in the top right of the screen
