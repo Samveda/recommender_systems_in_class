@@ -9,7 +9,7 @@
 
 
 ## Pre Reads
-
+Analytic Vidhya -https://www.analyticsvidhya.com/blog/2015/10/recommendation-engines/
 
 ## Learning Objective
 
@@ -26,6 +26,7 @@ Check the Jupyter Notebook in the top right of the screen
 
 
 ## Post Reads
+* Amazon recommender system - https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf
 
 ## Project
 Check out project readme!
